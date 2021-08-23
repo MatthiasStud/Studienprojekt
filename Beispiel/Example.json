@@ -1,0 +1,12 @@
+{
+	"SolutionName": "Solution",
+	"SolutionDirectory": "src",
+	"VerifiedFiles": [
+		{
+			"FileName": "restart.sql",
+			"Sha256Checksum": "72f7d8f6aaea51e245e82c424f0f5a90c06e21642ebd6915f4298b75b487e05f",
+			"Author": "Fred",
+			"Verified": true
+		}
+	]
+}
