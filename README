@@ -1,11 +1,5 @@
 Alle diese Dateien gehören zu dem Projekt Studienbericht von Matthias Meyer (22.08.2021)
 
-Die Dateien Java Klassen.txt, lib.txt, Studienprojekt.txt und StudienprojektEclispe.txt müssen umbenannt werden.
-Java Klassen.txt muss umbenannt werden zu "Java Klassen.zip".
-lib.txt muss umbenannt werden zu "lib.zip".
-Studienprojekt.txt muss umbenannt werden zu "Studienprojekt.jar".
-StudienprojektEclispe.txt muss umbenannt werden zu "StudienprojektEclispe.zip".
-
 Studienprojekt.jar ist die kompilierte Applikation.
 Den Source Code dafür kann man in Java Klassen finden.
 
